@@ -1,1 +1,1 @@
-USES PYGAME & PYTHON 3.2
+Uses pygame 1.9.1 & python 2.7
